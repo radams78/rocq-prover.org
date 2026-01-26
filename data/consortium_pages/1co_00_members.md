@@ -12,12 +12,6 @@ Current gold members are:
 
 <div class="flex">
   <div class="mx-4 my-4 py-4 px-4">
-    <a href="https://bluerock.io">
-      <img class="h-8 dark:hidden" src="/logos/lightmode/bluerock.svg" alt="BlueRock"/>
-      <img class="h-8 hidden dark:inline" src="/logos/darkmode/bluerock.svg" alt="BlueRock"/>
-    </a>
-  </div>
-  <div class="mx-4 my-4 py-4 px-4">
     <a href="https://formalv.com">
       <img class="h-8 dark:hidden" src="/logos/lightmode/formalv_logo.svg" alt="Formal Vindication"/>
       <img class="h-8 hidden dark:inline" src="/logos/darkmode/formalv_logo.svg" alt="Formal Vindication"/>
