@@ -50,9 +50,12 @@ let decode (fpath, (head, body_md)) =
   in
   Result.map (of_metadata ~body_md ~body_html) metadata
 
+let sort_by_date (r : t) (r' : t) =
+  Timedesc.Date.(compare (of_iso8601_exn r'.date) (of_iso8601_exn r.date))
+
 let all () =
   Utils.map_md_files decode "releases/*.md"
-  |> List.sort sort_by_decreasing_version
+  |> List.sort sort_by_date
 
 let is_coq_or_rocq (r : t) = r.kind == `Coq || r.kind == `Rocq
 let is_coq_or_rocq_platform (r : t) = r.kind == `CoqPlatform || r.kind == `RocqPlatform
@@ -70,8 +73,9 @@ let template () =
   in
   let latest_prerelease = List.find_opt (fun (r : t) -> is_rocq r && r.is_prerelease && r.is_latest) all in
   let latest_platform =
-    try List.find (fun (r : t) -> is_coq_or_rocq_platform r && r.is_latest) all
-    with Not_found ->
+    match List.sort sort_by_date (List.find_all (fun (r : t) -> is_coq_or_rocq_platform r) all) with
+    | hd :: _ -> hd
+    | _ ->
       raise
         (Invalid_argument
            "none of the Coq/Rocq Platform releases in data/releases is marked with is_latest: \

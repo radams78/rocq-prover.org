@@ -19,6 +19,7 @@
   fpath
   ppx_stable
   hilite
+  timedesc
   re
   xmlm)
  (preprocess
