@@ -4,6 +4,17 @@
 
 To generate the `github_teams.json` file, run the following GraphQL query (for instance in the [GitHub GraphQL Explorer](https://developer.github.com/v4/explorer/)):
 
+On https://api.github.com/graphql
+
+You will need a (classic) personal access token from github and to add an "Authorization: Bearer $TOKEN" header to your graphql request.
+One can use the `Altair` GraphQL client in Chrome for example.
+
+A `curl` request also works (replace TOKEN)
+
+```shell
+# curl 'https://api.github.com/graphql' -H 'Content-Type: application/json' -H 'Accept: application/json' -H 'Connection: keep-alive' -H 'Authorization: Bearer TOKEN' --data-binary '{"query":"query rocqmembers {\n  organization(login: \"rocq-prover\") {\n    teams(first: 100) {\n      totalCount\n      nodes {\n        slug\n        name\n        description\n        members {\n          nodes {\n            login\n            name\n          }\n        }\n      }\n    }\n  }\n}","variables":{}}' --output data/github-teams.json
+```
+
 ```graphql
 query {
   organization(login: "rocq-prover") {

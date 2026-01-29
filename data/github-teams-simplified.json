@@ -20,10 +20,6 @@
         {
           "github": "SkySkimmer",
           "name": "Gaëtan Gilbert"
-        },
-        {
-          "github": "Alizter",
-          "name": "Ali Caglayan"
         }
       ]
     },
@@ -56,14 +52,6 @@
         {
           "github": "SkySkimmer",
           "name": "Gaëtan Gilbert"
-        },
-        {
-          "github": "ejgallego",
-          "name": "Emilio Jesús Gallego Arias"
-        },
-        {
-          "github": "Alizter",
-          "name": "Ali Caglayan"
         }
       ]
     },
@@ -96,14 +84,6 @@
         {
           "github": "SkySkimmer",
           "name": "Gaëtan Gilbert"
-        },
-        {
-          "github": "ejgallego",
-          "name": "Emilio Jesús Gallego Arias"
-        },
-        {
-          "github": "Alizter",
-          "name": "Ali Caglayan"
         }
       ]
     },
@@ -156,10 +136,6 @@
         {
           "github": "Zimmi48",
           "name": "Théo Zimmermann"
-        },
-        {
-          "github": "ejgallego",
-          "name": "Emilio Jesús Gallego Arias"
         }
       ]
     },
@@ -370,10 +346,6 @@
           "name": "Yishuai Li"
         },
         {
-          "github": "ejgallego",
-          "name": "Emilio Jesús Gallego Arias"
-        },
-        {
           "github": "MSoegtropIMC",
           "name": ""
         },
@@ -435,7 +407,7 @@
         },
         {
           "github": "yannl35133",
-          "name": ""
+          "name": "Yann Leray"
         },
         {
           "github": "rnollet",
@@ -448,6 +420,10 @@
         {
           "github": "thomas-lamiaux",
           "name": "Thomas Lamiaux"
+        },
+        {
+          "github": "Tragicus",
+          "name": "Quentin VERMANDE"
         },
         {
           "github": "Villetaneuse",
@@ -490,8 +466,8 @@
           "name": "Théo Zimmermann"
         },
         {
-          "github": "Alizter",
-          "name": "Ali Caglayan"
+          "github": "lykimq",
+          "name": "Kim Quyen Ly"
         }
       ]
     },
@@ -538,16 +514,8 @@
           "name": "Jim Fehrle"
         },
         {
-          "github": "ejgallego",
-          "name": "Emilio Jesús Gallego Arias"
-        },
-        {
           "github": "MSoegtropIMC",
           "name": ""
-        },
-        {
-          "github": "Alizter",
-          "name": "Ali Caglayan"
         }
       ]
     },
@@ -596,10 +564,6 @@
         {
           "github": "ybertot",
           "name": "Yves Bertot"
-        },
-        {
-          "github": "ejgallego",
-          "name": "Emilio Jesús Gallego Arias"
         },
         {
           "github": "proux01",
@@ -651,14 +615,6 @@
         {
           "github": "SkySkimmer",
           "name": "Gaëtan Gilbert"
-        },
-        {
-          "github": "ejgallego",
-          "name": "Emilio Jesús Gallego Arias"
-        },
-        {
-          "github": "Alizter",
-          "name": "Ali Caglayan"
         }
       ]
     },
@@ -681,12 +637,12 @@
           "name": "Clément Pit-Claudel"
         },
         {
-          "github": "Alizter",
-          "name": "Ali Caglayan"
-        },
-        {
           "github": "proux01",
           "name": "Pierre Roux"
+        },
+        {
+          "github": "thomas-lamiaux",
+          "name": "Thomas Lamiaux"
         },
         {
           "github": "Villetaneuse",
@@ -711,10 +667,6 @@
         {
           "github": "SkySkimmer",
           "name": "Gaëtan Gilbert"
-        },
-        {
-          "github": "ejgallego",
-          "name": "Emilio Jesús Gallego Arias"
         }
       ]
     },
@@ -731,10 +683,6 @@
         {
           "github": "herbelin",
           "name": "Hugo Herbelin"
-        },
-        {
-          "github": "ejgallego",
-          "name": "Emilio Jesús Gallego Arias"
         },
         {
           "github": "proux01",
@@ -803,6 +751,10 @@
         {
           "github": "SkySkimmer",
           "name": "Gaëtan Gilbert"
+        },
+        {
+          "github": "yannl35133",
+          "name": "Yann Leray"
         }
       ]
     },
@@ -919,10 +871,6 @@
         {
           "github": "Zimmi48",
           "name": "Théo Zimmermann"
-        },
-        {
-          "github": "Alizter",
-          "name": "Ali Caglayan"
         }
       ]
     },
@@ -1083,10 +1031,6 @@
         {
           "github": "ppedrot",
           "name": "Pierre-Marie Pédrot"
-        },
-        {
-          "github": "ejgallego",
-          "name": "Emilio Jesús Gallego Arias"
         }
       ]
     },
@@ -1263,10 +1207,6 @@
         {
           "github": "ybertot",
           "name": "Yves Bertot"
-        },
-        {
-          "github": "ejgallego",
-          "name": "Emilio Jesús Gallego Arias"
         }
       ]
     },
@@ -1393,20 +1333,12 @@
           "name": "Laurent Théry"
         },
         {
-          "github": "ejgallego",
-          "name": "Emilio Jesús Gallego Arias"
-        },
-        {
           "github": "MSoegtropIMC",
           "name": ""
         },
         {
           "github": "cpitclaudel",
           "name": "Clément Pit-Claudel"
-        },
-        {
-          "github": "Alizter",
-          "name": "Ali Caglayan"
         },
         {
           "github": "erikmd",
@@ -1431,6 +1363,14 @@
         {
           "github": "PierreCorbineau",
           "name": "Pierre Corbineau"
+        },
+        {
+          "github": "yannl35133",
+          "name": "Yann Leray"
+        },
+        {
+          "github": "thomas-lamiaux",
+          "name": "Thomas Lamiaux"
         },
         {
           "github": "Villetaneuse",
@@ -1603,14 +1543,6 @@
         {
           "github": "SkySkimmer",
           "name": "Gaëtan Gilbert"
-        },
-        {
-          "github": "ejgallego",
-          "name": "Emilio Jesús Gallego Arias"
-        },
-        {
-          "github": "Alizter",
-          "name": "Ali Caglayan"
         }
       ]
     },
@@ -1623,10 +1555,6 @@
         {
           "github": "gares",
           "name": "Enrico Tassi"
-        },
-        {
-          "github": "ejgallego",
-          "name": "Emilio Jesús Gallego Arias"
         }
       ]
     },
@@ -1679,14 +1607,6 @@
         {
           "github": "SkySkimmer",
           "name": "Gaëtan Gilbert"
-        },
-        {
-          "github": "ejgallego",
-          "name": "Emilio Jesús Gallego Arias"
-        },
-        {
-          "github": "Alizter",
-          "name": "Ali Caglayan"
         }
       ]
     },
@@ -1751,10 +1671,6 @@
         {
           "github": "tabareau",
           "name": "Nicolas Tabareau"
-        },
-        {
-          "github": "Alizter",
-          "name": "Ali Caglayan"
         },
         {
           "github": "thomas-lamiaux",

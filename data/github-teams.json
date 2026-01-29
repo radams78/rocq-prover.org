@@ -25,10 +25,6 @@
                 {
                   "login": "SkySkimmer",
                   "name": "Gaëtan Gilbert"
-                },
-                {
-                  "login": "Alizter",
-                  "name": "Ali Caglayan"
                 }
               ]
             }
@@ -63,14 +59,6 @@
                 {
                   "login": "SkySkimmer",
                   "name": "Gaëtan Gilbert"
-                },
-                {
-                  "login": "ejgallego",
-                  "name": "Emilio Jesús Gallego Arias"
-                },
-                {
-                  "login": "Alizter",
-                  "name": "Ali Caglayan"
                 }
               ]
             }
@@ -105,14 +93,6 @@
                 {
                   "login": "SkySkimmer",
                   "name": "Gaëtan Gilbert"
-                },
-                {
-                  "login": "ejgallego",
-                  "name": "Emilio Jesús Gallego Arias"
-                },
-                {
-                  "login": "Alizter",
-                  "name": "Ali Caglayan"
                 }
               ]
             }
@@ -168,10 +148,6 @@
                 {
                   "login": "Zimmi48",
                   "name": "Théo Zimmermann"
-                },
-                {
-                  "login": "ejgallego",
-                  "name": "Emilio Jesús Gallego Arias"
                 }
               ]
             }
@@ -383,10 +359,6 @@
                   "name": "Yishuai Li"
                 },
                 {
-                  "login": "ejgallego",
-                  "name": "Emilio Jesús Gallego Arias"
-                },
-                {
                   "login": "MSoegtropIMC",
                   "name": null
                 },
@@ -448,7 +420,7 @@
                 },
                 {
                   "login": "yannl35133",
-                  "name": null
+                  "name": "Yann Leray"
                 },
                 {
                   "login": "rnollet",
@@ -461,6 +433,10 @@
                 {
                   "login": "thomas-lamiaux",
                   "name": "Thomas Lamiaux"
+                },
+                {
+                  "login": "Tragicus",
+                  "name": "Quentin VERMANDE"
                 },
                 {
                   "login": "Villetaneuse",
@@ -505,8 +481,8 @@
                   "name": "Théo Zimmermann"
                 },
                 {
-                  "login": "Alizter",
-                  "name": "Ali Caglayan"
+                  "login": "lykimq",
+                  "name": "Kim Quyen Ly"
                 }
               ]
             }
@@ -555,16 +531,8 @@
                   "name": "Jim Fehrle"
                 },
                 {
-                  "login": "ejgallego",
-                  "name": "Emilio Jesús Gallego Arias"
-                },
-                {
                   "login": "MSoegtropIMC",
                   "name": null
-                },
-                {
-                  "login": "Alizter",
-                  "name": "Ali Caglayan"
                 }
               ]
             }
@@ -614,10 +582,6 @@
                 {
                   "login": "ybertot",
                   "name": "Yves Bertot"
-                },
-                {
-                  "login": "ejgallego",
-                  "name": "Emilio Jesús Gallego Arias"
                 },
                 {
                   "login": "proux01",
@@ -672,14 +636,6 @@
                 {
                   "login": "SkySkimmer",
                   "name": "Gaëtan Gilbert"
-                },
-                {
-                  "login": "ejgallego",
-                  "name": "Emilio Jesús Gallego Arias"
-                },
-                {
-                  "login": "Alizter",
-                  "name": "Ali Caglayan"
                 }
               ]
             }
@@ -703,12 +659,12 @@
                   "name": "Clément Pit-Claudel"
                 },
                 {
-                  "login": "Alizter",
-                  "name": "Ali Caglayan"
-                },
-                {
                   "login": "proux01",
                   "name": "Pierre Roux"
+                },
+                {
+                  "login": "thomas-lamiaux",
+                  "name": "Thomas Lamiaux"
                 },
                 {
                   "login": "Villetaneuse",
@@ -734,10 +690,6 @@
                 {
                   "login": "SkySkimmer",
                   "name": "Gaëtan Gilbert"
-                },
-                {
-                  "login": "ejgallego",
-                  "name": "Emilio Jesús Gallego Arias"
                 }
               ]
             }
@@ -755,10 +707,6 @@
                 {
                   "login": "herbelin",
                   "name": "Hugo Herbelin"
-                },
-                {
-                  "login": "ejgallego",
-                  "name": "Emilio Jesús Gallego Arias"
                 },
                 {
                   "login": "proux01",
@@ -831,6 +779,10 @@
                 {
                   "login": "SkySkimmer",
                   "name": "Gaëtan Gilbert"
+                },
+                {
+                  "login": "yannl35133",
+                  "name": "Yann Leray"
                 }
               ]
             }
@@ -953,10 +905,6 @@
                 {
                   "login": "Zimmi48",
                   "name": "Théo Zimmermann"
-                },
-                {
-                  "login": "Alizter",
-                  "name": "Ali Caglayan"
                 }
               ]
             }
@@ -1124,10 +1072,6 @@
                 {
                   "login": "ppedrot",
                   "name": "Pierre-Marie Pédrot"
-                },
-                {
-                  "login": "ejgallego",
-                  "name": "Emilio Jesús Gallego Arias"
                 }
               ]
             }
@@ -1311,10 +1255,6 @@
                 {
                   "login": "ybertot",
                   "name": "Yves Bertot"
-                },
-                {
-                  "login": "ejgallego",
-                  "name": "Emilio Jesús Gallego Arias"
                 }
               ]
             }
@@ -1443,20 +1383,12 @@
                   "name": "Laurent Théry"
                 },
                 {
-                  "login": "ejgallego",
-                  "name": "Emilio Jesús Gallego Arias"
-                },
-                {
                   "login": "MSoegtropIMC",
                   "name": null
                 },
                 {
                   "login": "cpitclaudel",
                   "name": "Clément Pit-Claudel"
-                },
-                {
-                  "login": "Alizter",
-                  "name": "Ali Caglayan"
                 },
                 {
                   "login": "erikmd",
@@ -1481,6 +1413,14 @@
                 {
                   "login": "PierreCorbineau",
                   "name": "Pierre Corbineau"
+                },
+                {
+                  "login": "yannl35133",
+                  "name": "Yann Leray"
+                },
+                {
+                  "login": "thomas-lamiaux",
+                  "name": "Thomas Lamiaux"
                 },
                 {
                   "login": "Villetaneuse",
@@ -1661,14 +1601,6 @@
                 {
                   "login": "SkySkimmer",
                   "name": "Gaëtan Gilbert"
-                },
-                {
-                  "login": "ejgallego",
-                  "name": "Emilio Jesús Gallego Arias"
-                },
-                {
-                  "login": "Alizter",
-                  "name": "Ali Caglayan"
                 }
               ]
             }
@@ -1682,10 +1614,6 @@
                 {
                   "login": "gares",
                   "name": "Enrico Tassi"
-                },
-                {
-                  "login": "ejgallego",
-                  "name": "Emilio Jesús Gallego Arias"
                 }
               ]
             }
@@ -1741,14 +1669,6 @@
                 {
                   "login": "SkySkimmer",
                   "name": "Gaëtan Gilbert"
-                },
-                {
-                  "login": "ejgallego",
-                  "name": "Emilio Jesús Gallego Arias"
-                },
-                {
-                  "login": "Alizter",
-                  "name": "Ali Caglayan"
                 }
               ]
             }
@@ -1816,10 +1736,6 @@
                 {
                   "login": "tabareau",
                   "name": "Nicolas Tabareau"
-                },
-                {
-                  "login": "Alizter",
-                  "name": "Ali Caglayan"
                 },
                 {
                   "login": "thomas-lamiaux",
