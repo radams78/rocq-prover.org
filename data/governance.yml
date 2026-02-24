@@ -67,14 +67,20 @@ teams:
       github: MSoegtropIMC
   - id: workshops
     name: Workshops
-    description: The Workshops Steering Committee is responsible for organizing and coordinating the Rocq workshops.
+    description: The Workshops Steering Committee is responsible for organizing and coordinating the Rocq workshops (Rocqshop and RocqPL).
     members:
-    - name: Yves Bertot
-      github: ybertot
-      role: Co-chair
+    - name: Théo Winterhalter
+      github: TheoWinterhalter
+      role: Chair
     - name: Matthieu Sozeau
       github: mattam82
-      role: Co-chair
+      role: Member of the dev team
+    - name: Pierre Boutry
+      github: Boutry
+      role: Former Rocqshop chair
+    - name: Benjamin Delawere
+      github: bendy
+      role: Former RocqPL chair
 - id: rocq-runtime
   name: Rocq Runtime
   description: The Rocq Runtime team is responsible for the development and maintenance of the Rocq kernel and elaboration (rocq-runtime and rocq-equations).
