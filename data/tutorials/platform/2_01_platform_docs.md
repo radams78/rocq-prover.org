@@ -43,12 +43,12 @@ please contact us on Zulip to ensure that no one is already working on it.
 
 This is a demo, so not everything is working perfectly yet:
 
--   In the future, the documentation is planned to be indexed on the Coq
+-   In the future, the documentation is planned to be indexed on the Rocq
     Platform's version, but as of yet, it is only guaranteed to fully
-    work with the latest version of the [Coq
-    Platform](https://github.com/rocq-prover/platform/blob/main/doc/README~8.20~2025.01.md)
-    for Coq 8.20.1.
+    work with the latest version of the [Rocq
+    Platform](https://github.com/rocq-prover/platform/releases/tag/2025.08.2)
+    for Rocq 9.0.1.
 -   The interactive interface is relying on JsCoq1 that only supports
-    Coq up to 8.17 so it may fail on some content requiring Coq 8.20. We
-    are working towards switching to JsCoq2.
+    Coq up to 8.17 so it may fail on some content requiring a more recent version. 
+    We are working towards switching to JsCoq2.
 
